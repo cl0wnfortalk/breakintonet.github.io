@@ -15,7 +15,8 @@ body{
     }
 
     jdiv {
-        width: 20px;
+        display: block;
+        width: 20px !important;
         height: 20px;
     }
 }
