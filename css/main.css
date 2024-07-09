@@ -591,6 +591,12 @@ dl, dt, dd{
     text-transform: uppercase;
 }
 
+@media screen and (max-width: 280px) {
+    .about-title {
+        font-size: .8rem;
+    }
+}
+
 .about-title::after{
     content: '';
     height: .3vh;
