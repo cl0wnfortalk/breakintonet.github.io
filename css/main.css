@@ -13,12 +13,6 @@ body{
     .container {
         font-size: 1rem;
     }
-
-    jdiv {
-        display: block;
-        width: 20px !important;
-        height: 20px;
-    }
 }
 
 .container{
